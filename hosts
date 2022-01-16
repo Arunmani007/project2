@@ -1,0 +1,6 @@
+[masters]
+Arun ansible_host=192.168.1.10 ansible_user=root
+
+[workers]
+server1 ansible_host=172.23.4.249 ansible_user=root
+server2 ansible_host=172.23.12.197 ansible_user=root
